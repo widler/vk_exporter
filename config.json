@@ -1,0 +1,9 @@
+{
+  "group_id": 29141088,
+  "app_id": 8149187,
+  "interval_hours": 3,
+  "interval_ranges": 1,
+  "renew_interval_seconds": 60,
+  "port": 5001,
+  "host": "http://localhost"
+}
